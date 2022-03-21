@@ -1,0 +1,31 @@
+#Form{
+    margin-top: 20px;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    border-style: groove;
+    border-color: grey;
+    border-width: 10px;
+    padding: 1cm;
+    background-color: grey;
+    height: 12cm;
+
+}
+#Welcome{
+    background-color: grey;
+    height: 4cm;
+
+}
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+nav{
+    font-size: 30px;
+    color: azure;
+}
+a{
+    font-size: 30px;
+    color: azure;
+}

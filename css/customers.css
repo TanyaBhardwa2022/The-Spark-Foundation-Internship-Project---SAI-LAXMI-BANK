@@ -1,0 +1,93 @@
+table{
+    border-collapse: collapse;
+    background-color: grey;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,.03);
+    border-radius: 10px;
+    margin: auto;
+}
+
+th{
+    border: 1px solid #f2f2f2;
+    padding: 8px 30px;
+    text-align: center;
+    color: white;
+}
+th{
+    text-transform: uppercase;
+    font-weight: 500;
+}
+td{
+    border: 1px solid #f2f2f2;
+    padding: 8px 30px;
+    text-align: center;
+    color: black;
+    font-size: 13px;
+}
+.py-3{
+    font-size: 14px;
+    color: black;
+    
+    background: whitesmoke;
+    
+    border-radius: 2px;
+    line-height: 30px;
+    padding: 0  14px;
+}
+.fa{
+    font-size: 18px;
+}
+.fa-edit{
+    color: lemonchiffon;
+}
+.fa-trash{
+    color: lemonchiffon;
+}
+.container{
+    background-color: grey;
+    height: 3cm;
+    padding: 0.5cm;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+nav{
+    font-size: 30px;
+    color: azure;
+}
+.Transfer{
+    background-color: black;
+    color: beige;
+    text-align: center;
+}
+
+.Buttons{
+    align-self: center;
+}
+.Add_New_Customer_Button{
+    align-self: center;
+    color:white;
+
+}
+.Home_link{
+    text-decoration: none;
+    color:white;
+}
+
+
+.Customers_Info_link {
+    text-decoration: none;
+    color:white;
+
+}
+.Make_Transaction_link{
+    text-decoration: none;
+    color:white;
+
+}
+.Transaction_History_link{
+    text-decoration: none;
+    color:white;
+
+}
+ 

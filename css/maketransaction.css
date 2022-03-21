@@ -1,0 +1,44 @@
+#Form{
+    margin-top: 3cm;
+    margin-bottom: 3cm;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    border: 15px;
+    border-style: inset;
+    border-color: black;
+    padding: 1cm;
+}
+#MakeTransactionPane{
+    background-color: rgb(204, 198, 181);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+}
+h5{
+    text-align: center;
+    color: aliceblue;
+}
+.Home_link{
+    text-decoration: none;
+    color:white;
+}
+
+
+.Customers_Info_link {
+    text-decoration: none;
+    color:white;
+
+}
+.Make_Transaction_link{
+    text-decoration: none;
+    color:white;
+
+}
+.Transaction_History_link{
+    text-decoration: none;
+    color:white;
+
+}
+ 

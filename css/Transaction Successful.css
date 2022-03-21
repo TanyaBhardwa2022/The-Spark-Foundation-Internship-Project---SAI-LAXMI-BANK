@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#TransactionSuccessful{
+    background-color: aqua;
+    display: inline;
+    
+}
+.BackToHome{
+    box-shadow: 5px;
+}
